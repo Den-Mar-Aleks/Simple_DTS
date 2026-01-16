@@ -77,11 +77,11 @@ the LoRA applies stylization automatically.
 
 | Version | Weights | Preview |
 |--------|---------|---------|
-| **Main** | [/model/Simple_Trash_S.safetensors](https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/model/Simple_Trash_S.safetensors) | 
-<img src="https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/model/2026-01-16-2.png" width="120"> 
-<img src="https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/model/2026-01-16-3.png" width="120"> 
-<img src="https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/model/2026-01-16-4.png" width="120"> 
-<img src="https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/model/2026-01-16.png" width="120"> |
+| **Main** | [/ZIT/Simple_Trash_S.safetensors](https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/ZIT/Simple_Trash_S.safetensors) | 
+<img src="https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/ZIT/2026-01-16-2.png" width="120"> 
+<img src="https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/ZIT/2026-01-16-3.png" width="120"> 
+<img src="https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/ZIT/2026-01-16-4.png" width="120"> 
+<img src="https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/ZIT/2026-01-16.png" width="120"> |
 
 ---
 
