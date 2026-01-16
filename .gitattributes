@@ -41,3 +41,11 @@ model/video-25de7557.mp4 filter=lfs diff=lfs merge=lfs -text
 model/video-8a3b0e02.mp4 filter=lfs diff=lfs merge=lfs -text
 model/video-aa18a742.mp4 filter=lfs diff=lfs merge=lfs -text
 model/video-ce6b86ae.mp4 filter=lfs diff=lfs merge=lfs -text
+ZIT/2026-01-16-2.png filter=lfs diff=lfs merge=lfs -text
+ZIT/2026-01-16-3.png filter=lfs diff=lfs merge=lfs -text
+ZIT/2026-01-16-4.png filter=lfs diff=lfs merge=lfs -text
+ZIT/2026-01-16.png filter=lfs diff=lfs merge=lfs -text
+ZIT/video-25de7557.mp4 filter=lfs diff=lfs merge=lfs -text
+ZIT/video-8a3b0e02.mp4 filter=lfs diff=lfs merge=lfs -text
+ZIT/video-aa18a742.mp4 filter=lfs diff=lfs merge=lfs -text
+ZIT/video-ce6b86ae.mp4 filter=lfs diff=lfs merge=lfs -text
