@@ -82,10 +82,10 @@ the LoRA applies stylization automatically.
 <img src="https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/ZIT/2026-01-16-3.png" width="120"> 
 <img src="https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/ZIT/2026-01-16-4.png" width="120"> 
 <img src="https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/ZIT/2026-01-16.png" width="120"> |
-| **FLUX** | [/FLUX/Simple_Trash_S.safetensors](https://huggingface.co/dmsnoa/Simple_Trash_S/resolve/main/FLUX/Simple_Trash_S.safetensors) | 
-<img src="https://huggingface.co/dmsnoa/Simple_Trash_S/resolve/main/FLUX/2026-01-16-13.png" width="120"> 
-<img src="https://huggingface.co/dmsnoa/Simple_Trash_S/resolve/main/FLUX/2026-01-20-1.png" width="120">
-<img src="https://huggingface.co/dmsnoa/Simple_Trash_S/resolve/main/FLUX/2026-01-20.png" width="120">|
+| **FLUX** | [/FLUX (dev)/Simple_Trash_S.safetensors](https://huggingface.co/dmsnoa/Simple_Trash_S/resolve/main/FLUX/Simple_Trash_S.safetensors) | 
+<img src="https://huggingface.co/dmsnoa/Simple_Trash_S/resolve/main/FLUX (dev)/2026-01-16-13.png" width="120"> 
+<img src="https://huggingface.co/dmsnoa/Simple_Trash_S/resolve/main/FLUX (dev)/2026-01-20-1.png" width="120">
+<img src="https://huggingface.co/dmsnoa/Simple_Trash_S/resolve/main/FLUX (dev)/2026-01-20.png" width="120">|
 
 
 ---
