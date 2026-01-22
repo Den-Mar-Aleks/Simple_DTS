@@ -10,7 +10,7 @@ pipeline_tag: text-to-image
 ---
 
 # 🟣 Simple_DTS — Detail / Trash Slider LoRA  
-**ZIT compatible · Safe · Stylized detail-level manipulation**
+**ZIT & FLUX compatible · Safe · Stylized detail-level manipulation**
 
 ---
 
@@ -77,11 +77,16 @@ the LoRA applies stylization automatically.
 
 | Version | Weights | Preview |
 |--------|---------|---------|
-| **Main** | [/ZIT/Simple_Trash_S.safetensors](https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/ZIT/Simple_Trash_S.safetensors) | 
+| **ZIT**  | [/ZIT/Simple_Trash_S.safetensors](https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/ZIT/Simple_Trash_S.safetensors) | 
 <img src="https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/ZIT/2026-01-16-2.png" width="120"> 
 <img src="https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/ZIT/2026-01-16-3.png" width="120"> 
 <img src="https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/ZIT/2026-01-16-4.png" width="120"> 
 <img src="https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/ZIT/2026-01-16.png" width="120"> |
+| **FLUX** | [/FLUX/Simple_Trash_S.safetensors](https://huggingface.co/dmsnoa/Simple_Trash_S/resolve/main/FLUX/Simple_Trash_S.safetensors) | 
+<img src="https://huggingface.co/dmsnoa/Simple_Trash_S/resolve/main/FLUX/2026-01-16-13.png" width="120"> 
+<img src="https://huggingface.co/dmsnoa/Simple_Trash_S/resolve/main/FLUX/2026-01-20-1.png" width="120">
+<img src="https://huggingface.co/dmsnoa/Simple_Trash_S/resolve/main/FLUX/2026-01-20.png" width="120">|
+
 
 ---
 
