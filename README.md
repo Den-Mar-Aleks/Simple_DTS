@@ -14,6 +14,23 @@ pipeline_tag: text-to-image
 
 ---
 
+## ⚡ Quick Links
+
+| Version | Weights | Preview |
+|--------|---------|---------|
+| **ZIT**  | [/ZIT/Simple_Trash_S.safetensors](https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/ZIT/Simple_Trash_S.safetensors) | 
+<img src="https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/ZIT/2026-01-16-2.png" width="120"> 
+<img src="https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/ZIT/2026-01-16-3.png" width="120"> 
+<img src="https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/ZIT/2026-01-16-4.png" width="120"> 
+<img src="https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/ZIT/2026-01-16.png" width="120"> |
+| **FLUX** | [/FLUX (dev)/Simple_Trash_S.safetensors](https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/FLUX%20(dev)/Simple_Trash_S.safetensors) | 
+<img src="https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/FLUX%20(dev)/2026-01-16-13.png" width="120">
+<img src="https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/FLUX%20(dev)/2026-01-20-1.png" width="120">
+<img src="https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/FLUX%20(dev)/2026-01-20.png" width="120">|
+
+
+---
+
 ## 🔍 Overview
 **Simple_DTS** is an artistic scene-complexity LoRA that modifies **only the stylized amount of visual detail and clutter**, without touching:
 
@@ -73,22 +90,6 @@ the LoRA applies stylization automatically.
 
 ---
 
-## ⚡ Quick Links
-
-| Version | Weights | Preview |
-|--------|---------|---------|
-| **ZIT**  | [/ZIT/Simple_Trash_S.safetensors](https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/ZIT/Simple_Trash_S.safetensors) | 
-<img src="https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/ZIT/2026-01-16-2.png" width="120"> 
-<img src="https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/ZIT/2026-01-16-3.png" width="120"> 
-<img src="https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/ZIT/2026-01-16-4.png" width="120"> 
-<img src="https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/ZIT/2026-01-16.png" width="120"> |
-| **FLUX** | [/FLUX (dev)/Simple_Trash_S.safetensors](https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/FLUX%20(dev)/Simple_Trash_S.safetensors) | 
-<img src="https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/FLUX%20(dev)/2026-01-16-13.png" width="120">
-<img src="https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/FLUX%20(dev)/2026-01-20-1.png" width="120">
-<img src="https://huggingface.co/dmsnoa/Simple_DTS/resolve/main/FLUX%20(dev)/2026-01-20.png" width="120">|
-
-
----
 
 ## 🧾 License
 **CreativeML OpenRAIL-M**
